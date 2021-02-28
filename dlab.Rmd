@@ -1,0 +1,62 @@
+---
+title: "Westmont Decision Lab"
+description: |
+  Helping people make better decisions
+author:
+  - name: Enrico Manlapig
+    affiliation: Westmont College
+    affiliation_url: http://www.westmont.edu
+date: "`r Sys.Date()`"
+output: 
+  distill::distill_article:
+    toc: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+### What is the Westmont Decision Lab?
+
+The Westmont Decision Lab, or DLab for short, is a collection of activities that help people and organizations make better decisions.  These activities vary but they usually fall into the following three categories:
+
+* Decision support projects: We work directly with community partners to help them frame, model, and analyze high-stakes decisions
+* Decision training workshops: We train leadership teams to make high quality, value-focused decisions
+* Writing projects: We reflect upon and write about decision making
+
+
+### Our philosophy of decision making
+
+We think of high-quality decisions as those that exhibit 6 qualities:
+
+*	a helpful frame
+*	an understanding of the organization’s values and objectives as they relate to the decision at hand
+*	distinct and viable alternatives 
+*	relevant and reliable information 
+*	logical reasoning 
+*	a commitment to following-through
+
+A decision can only be as good as the weakest of this qualities are called the Decision Quality Chain.  Nonetheless, this notion of decision quality guides everything we do.
+
+We didn't invent the Decision Quality Chain or the tools and techniques we use to live it out. Actually, we are students and practitioners of Decision Analysis, a branch of Management Science and Operations Research that draws upon a variety of disciplines including economics, statistics, mathematics, and psychology.
+
+
+### What is decision support?
+
+We support our partner organizations' decision making with a range of analytical tools and techniques. The tools, models, and analyses we use depend on what the decision maker is facing.  
+
+High level, strategic decisions are challenging because of they involve complex value trade-offs, significant uncertainty, and/or constraints that make the path ahead unclear. Decision support in this context involves distinct qualitative and quantitative elements.   We begin by eliciting and structuring relevant  values and objectives, and identifying and modeling key alternatives and uncertainties.  With these elements we build decision mathematical models of the decision to formalize and communicate our understanding,  generate recommendations, and perform sensitivity and risk analyses.  
+
+
+Our partners sometimes face decisions where the environment is unclear.  They may be acutely aware of a problem, but they may not know the cause of it.  When the decision maker has data about the environment, we use statistics and data visualization to help them understand the contours of the landscape.  When the decision maker doesn't have data, we can help them identify relevant measures, and design and implement data collection, storage, reporting, and analysis tools.
+
+
+
+
+
+
+
+
+### Who is the Westmont Decision Lab?
+
+The DLab is directed by Enrico Manlapig, who staffs and oversees projects.

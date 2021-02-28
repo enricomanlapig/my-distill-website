@@ -1,0 +1,31 @@
+---
+title: "About me"
+description: |
+  It's lovely to meet you
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+ 
+Welcome to my little corner of the internet. 
+Like you, I wear a lot of hats.  Most of the time, I'm a husband, dad, professor, and foodie. 
+
+Here are few things about me that you might resonate with.
+
+### I went to school
+
+By training, I'm a microeconomic theorist.  I studied economic statistics, operations research, and game theory as an undergraduate. My graduate work was in microeconomics and matching theory.  Though the themes of my work as micro, my methods usually involved simulation and networks.
+
+### I enjoy problem solving
+
+My professional career has bounced between management consulting and academia.  There are lots of similarities but mostly, both involve problem solving. As a consultant, I worked in defense, financial services, healthcare, and government.  In my most recent stint, I worked on some Dodd-Frank stress testing, the Transatlantic Trade and Investment Partnership (the TTIP), strategic pricing, and plenty of complex derivatives work.  
+
+### I teach a lot
+
+I teach classes in decision analysis, finance, data analytics, game theory, and microeconomics.  
+
+### I am food motivated
+
+Don't tell anyone but I can be bribed with great pizza, sushi, or even a cup of coffee.
