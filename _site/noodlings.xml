@@ -13,6 +13,11 @@
       <dc:creator>Enrico Manlapig</dc:creator>
       <link>https://emanlapig.net/posts/2021-02-18-dynamic-network-visualization</link>
       <description>Visualizing the viral spread through a small campus</description>
+      <category>modeling</category>
+      <category>networks</category>
+      <category>R</category>
+      <category>simulation</category>
+      <category>covid-19</category>
       <guid>https://emanlapig.net/posts/2021-02-18-dynamic-network-visualization</guid>
       <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
     </item>
@@ -22,6 +27,7 @@
       <link>https://emanlapig.net/posts/2021-02-01-modeling-through-the-pandemic</link>
       <description>A series of posts about how modeling helped me stayed sane in 2020</description>
       <category>modeling</category>
+      <category>covid-19</category>
       <guid>https://emanlapig.net/posts/2021-02-01-modeling-through-the-pandemic</guid>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
     </item>

@@ -6,10 +6,15 @@ author:
 date: 02-01-2021
 categories: 
   - modeling
+  - covid-19
 output:
   distill::distill_article:
     self_contained: false
 ---
+
+![Kalkatungu Country 20 by [Meshach Bruce](https://www.cungelellaart.com/). Used with permission](kalkatungu_country_20.jpeg)
+
+
 
 The next few posts will be about the early part of 2020, when COVID-19 really started twisting and turning life in the US.  In my little corner of the world, this was March and April.  There was no talk yet of masks, lockdowns, or waves.  We were still experimenting with elbow bumps and watching the crises unfolding in Wuhan and Italy. In early March, I took a cautious trip to deliver a workshop about how to make high quality decisions.  After I returned home, California became the first state to lock down, which was when things really got serious. Goodness knows you couldn't buy toilet paper.  
 

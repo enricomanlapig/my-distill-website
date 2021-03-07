@@ -3,14 +3,20 @@ title: "Dynamic network visualization"
 description: Visualizing the viral spread through a small campus
 author:
   - name: Enrico Manlapig
-tags: [simulation, networks, R, modeling]
 categories:
   - modeling
+  - networks
+  - R
+  - simulation
+  - covid-19
 date: 02-16-2021
 output:
   distill::distill_article:
     self_contained: false
 ---
+
+![Kalkatungu Country 05 by [Cheryl Perez](https://www.cungelellaart.com/). Used with permission](kalkatungu_country_05.jpg)
+
 
 In this post, I'm going to share the first model I built. This one imagines the campus where I work. At the time, there was still a hope that in-person classes would resume and that everything would go back to normal. Colleges and universities wanted to get students back on campus for pedagogical as well as financial reasons.
 
@@ -55,12 +61,12 @@ Determined to freak myself out, I cranked up the cases in the community to 2230 
 ```{r, include = FALSE}
 source("~/GitHub/coronavirus/CampusVizData.R")
 
-# outside_infection_prob <- 2230/100000
+outside_infection_prob <- 2230/100000
 
 source("~/GitHub/coronavirus/CampusViz.R")
 ```
 
-```{r echo=FALSE, message=FALSE, warning=FALSE, results='asis'}
+```{r echo=FALSE, message=FALSE, warning=FALSE, results='asis', preview = TRUE}
 my_output
 ```
 
