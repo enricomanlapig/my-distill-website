@@ -2,11 +2,11 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About me",
+      "title": "About",
       "description": "It's lovely to meet you",
       "author": [],
-      "contents": "\r\nWelcome to my little corner of the internet. Like you, I wear a lot of hats. Most of the time, I’m a husband, dad, professor, and foodie.\r\nHere are few things about me that you might resonate with.\r\nI went to school\r\nBy training, I’m a microeconomic theorist. I studied economic statistics, operations research, and game theory as an undergraduate. My graduate work was in microeconomics and matching theory. Though the themes of my work as micro, my methods usually involved simulation and networks.\r\nI enjoy problem solving\r\nMy professional career has bounced between management consulting and academia. There are lots of similarities but mostly, both involve problem solving. As a consultant, I worked in defense, financial services, healthcare, and government. In my most recent stint, I worked on some Dodd-Frank stress testing, the Transatlantic Trade and Investment Partnership (the TTIP), strategic pricing, and plenty of complex derivatives work.\r\nI teach a lot\r\nI teach classes in decision analysis, finance, data analytics, game theory, and microeconomics.\r\nI am food motivated\r\nDon’t tell anyone but I can be bribed with great pizza, sushi, or even a cup of coffee.\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-03-06T22:47:10-08:00"
+      "contents": "\r\nLike you, I wear a lot of hats. Most of the time, I’m a husband, dad, professor, and foodie.\r\nHere are few things about me that you might resonate with.\r\nI went to school\r\nBy training, I’m a microeconomic theorist. I studied economic statistics, operations research, and game theory as an undergraduate. My graduate work was in microeconomics and matching theory. Though the themes of my work as micro, my methods usually involved simulation and networks.\r\nI enjoy problem solving\r\nMy professional career has bounced between management consulting and academia. Both involve teaching and problem solving, both of which I love. As a consultant, I worked in defense, financial services, healthcare, and government. In my most recent stint, I worked on some Dodd-Frank stress testing, the Transatlantic Trade and Investment Partnership (the TTIP), strategic pricing, and plenty of complex derivatives work. In terms of skills and techniques, I did a lot of mathematical programming, simulation, econometrics, and decision analysis.\r\nI teach a lot\r\nI teach classes in operations research, decision analysis, finance, econometrics, game theory, behavioral economics, and microeconomic theory. My students think I’m a bit of a tyrant. I think I’m an idealist :)\r\nI am food motivated\r\nDon’t tell anyone but I can be bribed with great pizza, sushi, or even a cup of coffee.\r\nI’m a complicated mixture of cultures\r\nI’m ethnically Filipino but I’ve never lived in the Philippines. Actually, I grew up in Australia and still think of the lovely city of Brisbane as my hometown. Most of my working life is in the US and I’ve lived on the East Coast, Mid-West, and on the West Coast. It’s all a bit of a complicated mess in my mind.\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-03-07T01:07:21-08:00"
     },
     {
       "path": "dlab.html",
@@ -38,7 +38,7 @@
       "description": "My thoughts on modeling, life, and more\n",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-03-06T22:47:17-08:00"
+      "last_modified": "2021-03-07T00:50:36-08:00"
     }
   ],
   "collections": ["posts/posts.json"]

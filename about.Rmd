@@ -1,5 +1,5 @@
 ---
-title: "About me"
+title: "About"
 description: |
   It's lovely to meet you
 ---
@@ -9,7 +9,7 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
  
-Welcome to my little corner of the internet. 
+
 Like you, I wear a lot of hats.  Most of the time, I'm a husband, dad, professor, and foodie. 
 
 Here are few things about me that you might resonate with.
@@ -20,12 +20,17 @@ By training, I'm a microeconomic theorist.  I studied economic statistics, opera
 
 ### I enjoy problem solving
 
-My professional career has bounced between management consulting and academia.  There are lots of similarities but mostly, both involve problem solving. As a consultant, I worked in defense, financial services, healthcare, and government.  In my most recent stint, I worked on some Dodd-Frank stress testing, the Transatlantic Trade and Investment Partnership (the TTIP), strategic pricing, and plenty of complex derivatives work.  
+My professional career has bounced between management consulting and academia.  Both involve teaching and problem solving, both of which I love.  As a consultant, I worked in defense, financial services, healthcare, and government.  In my most recent stint, I worked on some Dodd-Frank stress testing, the Transatlantic Trade and Investment Partnership (the TTIP), strategic pricing, and plenty of complex derivatives work.  In terms of skills and techniques, I did a lot of mathematical programming, simulation, econometrics, and decision analysis.  
 
 ### I teach a lot
 
-I teach classes in decision analysis, finance, data analytics, game theory, and microeconomics.  
+I teach classes in operations research, decision analysis, finance, econometrics, game theory, behavioral economics, and microeconomic theory.  My students think I'm a bit of a tyrant.  I think I'm an idealist :)
 
 ### I am food motivated
 
 Don't tell anyone but I can be bribed with great pizza, sushi, or even a cup of coffee.
+
+### I'm a complicated mixture of cultures
+
+I'm ethnically Filipino but I've never lived in the Philippines.  Actually, I grew up in Australia and still think of the lovely city of Brisbane as my hometown.  Most of my working life is in the US and I've lived on the East Coast, Mid-West, and on the West Coast.  It's all a bit of a complicated mess in my mind.
+
