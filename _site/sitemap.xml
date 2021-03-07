@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
+  <url>
+    <loc>https://emanlapig.net/about.html</loc>
+    <lastmod>2021-02-28T01:51:33-08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emanlapig.net/dlab.html</loc>
+    <lastmod>2021-03-06T22:40:32-08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emanlapig.net/dlab_projects.html</loc>
+    <lastmod>2021-03-06T22:40:03-08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emanlapig.net/</loc>
+    <lastmod>2021-02-28T02:30:16-08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emanlapig.net/noodlings.html</loc>
+    <lastmod>2021-02-28T02:11:30-08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emanlapig.net/posts/2021-02-18-dynamic-network-visualization/</loc>
+    <lastmod>2021-02-27T12:05:35-08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emanlapig.net/posts/2021-02-01-modeling-through-the-pandemic/</loc>
+    <lastmod>2021-02-27T13:53:38-08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emanlapig.net/posts/2021-01-20-hello-world/</loc>
+    <lastmod>2021-03-06T22:23:48-08:00</lastmod>
+  </url>
+</urlset>

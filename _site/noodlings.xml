@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Enrico Manlapig</title>
+    <link>https://emanlapig.net</link>
+    <atom:link href="https://emanlapig.net/noodlings.xml" rel="self" type="application/rss+xml"/>
+    <description>My personal website
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>Tue, 16 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Dynamic network visualization</title>
+      <dc:creator>Enrico Manlapig</dc:creator>
+      <link>https://emanlapig.net/posts/2021-02-18-dynamic-network-visualization</link>
+      <description>Visualizing the viral spread through a small campus</description>
+      <guid>https://emanlapig.net/posts/2021-02-18-dynamic-network-visualization</guid>
+      <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Modeling through the pandemic</title>
+      <dc:creator>Enrico Manlapig</dc:creator>
+      <link>https://emanlapig.net/posts/2021-02-01-modeling-through-the-pandemic</link>
+      <description>A series of posts about how modeling helped me stayed sane in 2020</description>
+      <category>modeling</category>
+      <guid>https://emanlapig.net/posts/2021-02-01-modeling-through-the-pandemic</guid>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hello world</title>
+      <dc:creator>Enrico Manlapig</dc:creator>
+      <link>https://emanlapig.net/posts/2021-01-20-hello-world</link>
+      <description>Welcome to my blog</description>
+      <guid>https://emanlapig.net/posts/2021-01-20-hello-world</guid>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,30 @@
+---
+title: "Example projects"
+description: |
+  We've been busy
+draft: true
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+### Strategic decision making at the zoo
+
+Senior management was considering purchasing a second site to overcome the physical constraints on their existing site. The Westmont Decision Lab worked with senior management across the organization to build a multi-attribute decision model.  The model considered a wide variety of strategic priorities for the Zoo, potential configurations of the new and existing site, and key risks.
+
+
+
+### Designing a data collection and reporting tool to fight homelessness
+
+
+### Implementing a data collection strategy for a non-profit empowering women in Uganda
+
+
+### Visualizing admission data to explore leading indicators of student success
+
+### Helping a pre-school navigate a survival decision

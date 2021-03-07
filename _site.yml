@@ -1,8 +1,9 @@
 name: "Enrico Manlapig"
 title: "Enrico Manlapig"
+theme: theme.css
 description: |
   My personal website
-theme: theme.css
+base_url: https://emanlapig.net
 output_dir: "_site"
 navbar:
   right:
