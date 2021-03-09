@@ -10,6 +10,7 @@ categories:
   - simulation
   - covid-19
 date: 02-16-2021
+preview: preview.PNG
 output:
   distill::distill_article:
     self_contained: false

@@ -6,6 +6,7 @@ author:
   - name: Enrico Manlapig
     url: {}
 date: 03-07-2021
+preview: SIQRSimulation.png
 categories: 
   - modeling
   - covid-19
