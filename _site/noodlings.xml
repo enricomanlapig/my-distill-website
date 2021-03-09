@@ -7,7 +7,22 @@
     <description>My personal website
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Tue, 16 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>SIR simulations</title>
+      <dc:creator>Enrico Manlapig</dc:creator>
+      <link>https://emanlapig.net/posts/2021-03-07-sir-simulations</link>
+      <description>Curioser and curioser</description>
+      <category>modeling</category>
+      <category>covid-19</category>
+      <category>simulation</category>
+      <category>R</category>
+      <category>networks</category>
+      <category>SIR</category>
+      <guid>https://emanlapig.net/posts/2021-03-07-sir-simulations</guid>
+      <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://emanlapig.net/posts/2021-03-07-sir-simulations/SIRSimulation.png" medium="image" type="image/png" width="1656" height="1024"/>
+    </item>
     <item>
       <title>Dynamic network visualization</title>
       <dc:creator>Enrico Manlapig</dc:creator>
