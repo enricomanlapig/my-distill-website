@@ -115,7 +115,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <!--/radix_placeholder_rmarkdown_metadata-->
   
   <script type="text/json" id="radix-resource-manifest">
-  {"type":"character","attributes":{},"value":["cashier.png","food_queue1.png","food_queue1_new.png","room_usage.png","room_usage_new.png","simulating-the-cafeteria_files/anchor-4.2.2/anchor.min.js","simulating-the-cafeteria_files/bowser-1.9.3/bowser.min.js","simulating-the-cafeteria_files/distill-2.2.21/template.v2.js","simulating-the-cafeteria_files/header-attrs-2.7/header-attrs.js","simulating-the-cafeteria_files/jquery-1.11.3/jquery.min.js","simulating-the-cafeteria_files/popper-2.6.0/popper.min.js","simulating-the-cafeteria_files/tippy-6.2.7/tippy-bundle.umd.min.js","simulating-the-cafeteria_files/tippy-6.2.7/tippy-light-border.css","simulating-the-cafeteria_files/tippy-6.2.7/tippy.css","simulating-the-cafeteria_files/tippy-6.2.7/tippy.umd.min.js","simulating-the-cafeteria_files/webcomponents-2.0.0/webcomponents.js","table.png","table_new.png"]}
+  {"type":"character","attributes":{},"value":["cashier.png","food_queue1.png","food_queue1_new.png","room_usage.png","room_usage_new.png","simulating-the-cafeteria_files/anchor-4.2.2/anchor.min.js","simulating-the-cafeteria_files/bowser-1.9.3/bowser.min.js","simulating-the-cafeteria_files/distill-2.2.21/template.v2.js","simulating-the-cafeteria_files/header-attrs-2.7/header-attrs.js","simulating-the-cafeteria_files/jquery-1.11.3/jquery.min.js","simulating-the-cafeteria_files/popper-2.6.0/popper.min.js","simulating-the-cafeteria_files/tippy-6.2.7/tippy-bundle.umd.min.js","simulating-the-cafeteria_files/tippy-6.2.7/tippy-light-border.css","simulating-the-cafeteria_files/tippy-6.2.7/tippy.css","simulating-the-cafeteria_files/tippy-6.2.7/tippy.umd.min.js","simulating-the-cafeteria_files/webcomponents-2.0.0/webcomponents.js","table.png","table_new.png","waterholes_k947.jpg"]}
   </script>
   <!--radix_placeholder_navigation_in_header-->
   <!--/radix_placeholder_navigation_in_header-->
@@ -1483,6 +1483,9 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 </div>
 
 <div class="d-article">
+<figure>
+<img src="waterholes_k947.jpg" alt="Waterholes (K947) by Sarrita King. Used with permission" /><figcaption aria-hidden="true">Waterholes (K947) by <a href="https://artisticsolutionsgroup.com.au/">Sarrita King</a>. Used with permission</figcaption>
+</figure>
 <p>In my last two posts, I was focusing mostly on classrooms and dorms. These results had me satisfied for the last few weeks of the semester. yet, in the back of my mind were its obvious simplifications. Specifically, I was thinking of daily whole-campus gatherings like chapel and meals. The trickier of these was the cafeteria, since people gotta eat.</p>
 <p>During the summer, the administration was talking about implementing a “to-go only” strategy for the cafeteria, where students would pick up pre-made lunches to eat elsewhere on campus. Our campus only has one cafeteria, so lunchtime can be a pretty hectic affair but at the same time, it felt a bit arbitrary since classes would continue to be held in person, and dorms seemed more problematic. Plus, at the time, there was a scary <a href="https://youtu.be/OOvENoZMmK4">video</a> going viral that illustrated how quickly germs can spread during a meal.</p>
 <p>I wanted to know, what a milder set of restrictions would look like. What if we served meals rather than have diners serve themselves and limited the number of tables to allow for social distancing.</p>
@@ -1553,7 +1556,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <p>I went a little bit bonkers with the bathroom. I assumed 50% of of diners would visit the bathroom. Of these bathroom-goers, 70% had to go #1. Men were a bit quicker at going #1 at 1 minute, while women would take 2 minutes. Just a guess. 30% had to go #2 and everyone took 4 minutes to go.</p>
 <h3 id="runtime">Runtime</h3>
 <p>I didn’t think through the dynamics of the situation. I just plugged these parameters in and let it run.</p>
-<p>It was a lot of fun simulating this model. I printed fun little flags at each event. Here’s the path and timing of diner 65:</p>
+<p>It was a lot of fun simulating this model. I printed fun little flags at each event. Here’s the trajectory diner 65. The numbers in the first column are minutes.</p>
 <pre><code>0.97805: diner65: I&#39;m hungry!
 1.10189: diner65: Found a table - plonk bags
 1.10189: diner65: I&#39;m going to the side-room station

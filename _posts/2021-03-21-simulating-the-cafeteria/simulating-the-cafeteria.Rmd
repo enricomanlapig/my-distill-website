@@ -20,6 +20,8 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+![Waterholes (K947) by [Sarrita King](https://artisticsolutionsgroup.com.au/). Used with permission](waterholes_k947.jpg)
+
 In my last two posts, I was focusing mostly on classrooms and dorms. These results had me satisfied for the last few weeks of the semester. yet, in the back of my mind were its obvious simplifications. Specifically, I was thinking of daily whole-campus gatherings like chapel and meals. The trickier of these was the cafeteria, since people gotta eat.
 
 During the summer, the administration was talking about implementing a "to-go only" strategy for the cafeteria, where students would pick up pre-made lunches to eat elsewhere on campus. Our campus only has one cafeteria, so lunchtime can be a pretty hectic affair but at the same time, it felt a bit arbitrary since classes would continue to be held in person, and dorms seemed more problematic. Plus, at the time, there was a scary [video](https://youtu.be/OOvENoZMmK4) going viral that illustrated how quickly germs can spread during a meal.
