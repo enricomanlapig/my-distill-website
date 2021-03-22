@@ -19,6 +19,7 @@
       <category>covid-19</category>
       <guid>https://emanlapig.net/posts/2021-03-21-simulating-the-cafeteria</guid>
       <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://emanlapig.net/posts/2021-03-21-simulating-the-cafeteria/table.png" medium="image" type="image/png" width="1803" height="1344"/>
     </item>
     <item>
       <title>SIR simulations</title>
@@ -33,7 +34,7 @@
       <category>SIR</category>
       <guid>https://emanlapig.net/posts/2021-03-07-sir-simulations</guid>
       <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
-      <media:content url="https://emanlapig.net/posts/2021-03-07-sir-simulations/SIRSimulation.png" medium="image" type="image/png" width="1656" height="1024"/>
+      <media:content url="https://emanlapig.net/posts/2021-03-07-sir-simulations/SIQRSimulation.png" medium="image" type="image/png" width="1656" height="1024"/>
     </item>
     <item>
       <title>Dynamic network visualization</title>
