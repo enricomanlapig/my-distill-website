@@ -6,6 +6,7 @@ author:
   - name: Enrico Manlapig
     url: {}
 date: 03-21-2021
+preview: table.png
 categories:
   - discrete event simulation
   - R
