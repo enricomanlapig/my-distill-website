@@ -13,24 +13,29 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-### Strategic decision making at the zoo
+### Strategic planning at the zoo
 
 Senior management was considering purchasing a second site to overcome the physical constraints on their existing site. The Westmont Decision Lab worked with senior management across the organization to build a multi-attribute decision model.  The model considered a wide variety of strategic priorities for the Zoo, potential configurations of the new and existing site, and key risks.
 
 
 
-### Designing a data collection and reporting tool to fight homelessness
+### A data collection strategy to fight homelessness
 
-The Westmont Decision lab created a mobile data collection weekly survey for a collaborative of organizations providing services to individuals experiencing homelessness.  The tool gathers data related to meals, medical services, case management services, hygiene services, clothing, animal welfare, and other services to communicate with government and the community.  The DLab also built a dashboard to summarize service metrics in real time.
+The Westmont Decision lab created a mobile data collection weekly survey for a collaborative of organizations providing services to individuals experiencing homelessness.  The tool gathers data related to meals, medical services, case management services, hygiene services, clothing, animal welfare, and other services to communicate with government and the community.  
+
+The DLab then built a dashboard to summarize and report these service metrics in real time.
 
 
-### Implementing a data collection strategy for a non-profit empowering women in Uganda
+### A data collection strategy for a non-profit empowering women in Africa
 
-The DLab worked with the executive direcor of a non-profit that supports women in Uganda through farming and child support programs.  The partner wanted a new data collection process to improve the reliability of their data and ease administrative burden
+The DLab worked with the executive director of a non-profit that supports women in Uganda through farming and child support programs.  The partner wanted to overhaul their data collection process to increase efficiency, improve reliability, and reduce cost. The DLab help choose and implement a new platform and trained leaders in its use.
 
 
 ### Visualizing admission data to explore leading indicators of student success
 
-### Supporting a renovation project for a historic landmark
+Westmont Decision Lab students worked with college leaders to characterize students at risk of not graduating.  DLab recommendations supported revisions to the advising system.
 
-### Helping a pre-school navigate a survival decision
+
+### Supporting a large capital investment decision for a historic landmark
+
+Westmont Decision Lab students worked with Executive Director of a historic landmark considering renovating and repurposing one of its campus buildings.  Students worked with stakeholders across the organization, designed value and decision models, and recommended a new strategy for the facility.

@@ -60,4 +60,10 @@ At the DLab, everything we do promotes high quality decision making.
 
 ### Who is the Westmont Decision Lab?
 
-The DLab is directed by Enrico Manlapig, who staffs and oversees projects.  Students participate in DLab projects through different classes and as independent study projects.  Broadly speaking, projects focused on strategic challenges are usually assigned to Applied Management Science students.  These students study decision analysis and operations research.  They are learning to frame, structure, and analyze complex decision problems at a strategic level.  Projects that involve wading into data or data collection are usually assigned to Research and Forecasting.  These students are studying data manipulation, statistical analyses, and visualization.  
+The DLab is directed by Enrico Manlapig, who staffs and oversees projects.  Students participate in DLab projects through different classes and as independent study projects.  
+
+Two classes, in particular, support DLab projects.  
+
+* **Applied Management Science** is a class in decision analysis and operations research. Students are learning to frame, structure, and analyze complex decision problems at a strategic level. Projects exhibiting conflicting values, uncertainty, and/or complexity are ordinarily supported by this class. 
+
+* **Business Research & Forecasting** is an introduction to data analytics and econometric modeling. Students are practicing data manipulation, statistical analyses, and visualization.  Projects that involve wading into data or data collection are usually assigned to Research and Forecasting.  
