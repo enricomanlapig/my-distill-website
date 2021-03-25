@@ -53,7 +53,34 @@ Our partners sometimes face decisions where the environment is unclear.  They ma
 At the DLab, everything we do promotes high quality decision making.
 
 
-<!-- [Learn more](dlab_projects.html) about our projects -->
+### Examples of our work
+
+#### Strategic planning at the zoo
+
+Senior management was considering purchasing a second site to overcome the physical constraints on their existing site. The Westmont Decision Lab worked with senior management across the organization to build a multi-attribute decision model.  The model considered a wide variety of strategic priorities for the Zoo, potential configurations of the new and existing site, and key risks.
+
+
+
+#### A data collection strategy to fight homelessness
+
+The Westmont Decision lab created a mobile data collection weekly survey for a collaborative of organizations providing services to individuals experiencing homelessness.  The tool gathers data related to meals, medical services, case management services, hygiene services, clothing, animal welfare, and other services to communicate with government and the community.  
+
+The DLab then built a dashboard to summarize and report these service metrics in real time.
+
+
+#### A data collection strategy for a non-profit empowering women in Africa
+
+The DLab worked with the executive director of a non-profit that supports women in Uganda through farming and child support programs.  The partner wanted to overhaul their data collection process to increase efficiency, improve reliability, and reduce cost. The DLab help choose and implement a new platform and trained leaders in its use.
+
+
+#### Visualizing admission data to explore leading indicators of student success
+
+Westmont Decision Lab students worked with college leaders to characterize students at risk of not graduating.  DLab recommendations supported revisions to the advising system.
+
+
+#### Supporting a large capital investment decision for a historic landmark
+
+Westmont Decision Lab students worked with Executive Director of a historic landmark considering renovating and repurposing one of its campus buildings.  Students worked with stakeholders across the organization, designed value and decision models, and recommended a new strategy for the facility.
 
 
 
@@ -67,3 +94,5 @@ Two classes, in particular, support DLab projects.
 * **Applied Management Science** is a class in decision analysis and operations research. Students are learning to frame, structure, and analyze complex decision problems at a strategic level. Projects exhibiting conflicting values, uncertainty, and/or complexity are ordinarily supported by this class. 
 
 * **Business Research & Forecasting** is an introduction to data analytics and econometric modeling. Students are practicing data manipulation, statistical analyses, and visualization.  Projects that involve wading into data or data collection are usually assigned to Research and Forecasting.  
+
+
