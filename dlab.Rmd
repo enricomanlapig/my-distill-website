@@ -65,7 +65,7 @@ Senior management was considering purchasing a second site to overcome the physi
 
 The Westmont Decision lab created a mobile data collection weekly survey for a collaborative of organizations providing services to individuals experiencing homelessness.  The tool gathers data related to meals, medical services, case management services, hygiene services, clothing, animal welfare, and other services to communicate with government and the community.  
 
-The DLab then built a dashboard to summarize and report these service metrics in real time.
+The DLab then built a [dashboard](neighbor_nav_center_dash.html) to summarize and report these service metrics in real time.
 
 
 #### A data collection strategy for a non-profit empowering women in Africa

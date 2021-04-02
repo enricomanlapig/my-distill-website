@@ -7,13 +7,17 @@ base_url: https://emanlapig.net
 output_dir: "_site"
 navbar:
   right:
-    - text: "Home"
+    - text: "HOME"
       href: index.html
-    - text: "Westmont Decision Lab"
-      href: dlab.html
-    - text: "Noodlings"
+    - text: "WESTMONT DECISION LAB"
+      menu: 
+        - text: About the DLab
+          href: dlab.html
+        - text: Neighbor Navigation Center
+          href: neighbor_nav_center_dash.html
+    - text: "NOODLINGS"
       href: noodlings.html
-    - text: "About"
+    - text: "ABOUT"
       href: about.html
 output: distill::distill_article
 collections:
