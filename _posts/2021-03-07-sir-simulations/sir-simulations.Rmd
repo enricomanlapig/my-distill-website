@@ -26,7 +26,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-![Crocodiles Dreaming 1B by [Melanie Hava](http://www.artofmelaniehava.com/). Used with permission](CrocodileDreaming1B.jpg)
+![*Crocodiles Dreaming 1B* by [Melanie Hava](http://www.artofmelaniehava.com/). Used with permission](CrocodileDreaming1B.jpg)
 
 
 In my [last post](../2021-02-18-dynamic-network-visualization/index.html), I shared some dynamic network animations.  Making these little movies, for all their flaws and simplifications, felt like broadly plausible representation of campus life.   But they didn't help me understand the mechanics of the  *flatten the curve* verbiage that everyone was using.  Intuitively, I understood that by social distancing, we would reduce the density of our social networks and transmission risks would be mitigated.  But how do they know it will work?  It feels like a very blunt tool.  Is quarantine and lock down enough?  What if, as many news agencies told us, many of the sick are asymptomatic?   What about the herd immunity approach?  How much immunity would we need? 

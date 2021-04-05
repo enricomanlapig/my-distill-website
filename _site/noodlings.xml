@@ -7,7 +7,20 @@
     <description>My personal website
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Sun, 21 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Assigning classes</title>
+      <dc:creator>Enrico Manlapig</dc:creator>
+      <link>https://emanlapig.net/posts/2021-04-04-assigningclassrooms</link>
+      <description>A neat little model to assign classrooms</description>
+      <category>covid-19</category>
+      <category>glpk</category>
+      <category>optimization</category>
+      <category>modeling</category>
+      <guid>https://emanlapig.net/posts/2021-04-04-assigningclassrooms</guid>
+      <pubDate>Sun, 04 Apr 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://emanlapig.net/posts/2021-04-04-assigningclassrooms/language_of_the_earth_sarrita_king.jpg" medium="image" type="image/jpeg"/>
+    </item>
     <item>
       <title>Simulating the Dining Commons</title>
       <dc:creator>Enrico Manlapig</dc:creator>
