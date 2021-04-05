@@ -1,5 +1,5 @@
 ---
-title: "Assigning classes"
+title: "Shuffling classrooms"
 description: |
   A neat little model to assign classrooms
 author:
