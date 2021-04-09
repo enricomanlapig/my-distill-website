@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
   <url>
+    <loc>https://emanlapig.net/about.html</loc>
+    <lastmod>2021-03-07T01:06:56-08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emanlapig.net/dlab.html</loc>
+    <lastmod>2021-04-01T22:09:23-07:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emanlapig.net/</loc>
+    <lastmod>2021-02-28T02:30:16-08:00</lastmod>
+  </url>
+  <url>
     <loc>https://emanlapig.net/neighbor_nav_center_dash.html</loc>
     <lastmod>2021-04-09T09:52:25-07:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emanlapig.net/noodlings.html</loc>
+    <lastmod>2021-02-28T02:11:30-08:00</lastmod>
   </url>
   <url>
     <loc>https://emanlapig.net/posts/2021-04-04-assigningclassrooms/</loc>

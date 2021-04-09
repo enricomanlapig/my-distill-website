@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Enrico Manlapig</title>
+    <link>https://emanlapig.net</link>
+    <atom:link href="https://emanlapig.net/noodlings.xml" rel="self" type="application/rss+xml"/>
+    <description>My personal website
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>Sun, 04 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Shuffling classrooms</title>
+      <dc:creator>Enrico Manlapig</dc:creator>
+      <link>https://emanlapig.net/posts/2021-04-04-assigningclassrooms</link>
+      <description>A neat little model to assign classrooms</description>
+      <category>covid-19</category>
+      <category>glpk</category>
+      <category>optimization</category>
+      <category>modeling</category>
+      <guid>https://emanlapig.net/posts/2021-04-04-assigningclassrooms</guid>
+      <pubDate>Sun, 04 Apr 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://emanlapig.net/posts/2021-04-04-assigningclassrooms/language_of_the_earth_sarrita_king.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Simulating the Dining Commons</title>
+      <dc:creator>Enrico Manlapig</dc:creator>
+      <link>https://emanlapig.net/posts/2021-03-21-simulating-the-cafeteria</link>
+      <description>Is there an alternative to a take-out-only cafeteria?</description>
+      <category>discrete event simulation</category>
+      <category>R</category>
+      <category>simulation</category>
+      <category>covid-19</category>
+      <guid>https://emanlapig.net/posts/2021-03-21-simulating-the-cafeteria</guid>
+      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://emanlapig.net/posts/2021-03-21-simulating-the-cafeteria/table.png" medium="image" type="image/png" width="1803" height="1344"/>
+    </item>
+    <item>
+      <title>SIR simulations</title>
+      <dc:creator>Enrico Manlapig</dc:creator>
+      <link>https://emanlapig.net/posts/2021-03-07-sir-simulations</link>
+      <description>Curioser and curioser</description>
+      <category>modeling</category>
+      <category>covid-19</category>
+      <category>simulation</category>
+      <category>R</category>
+      <category>networks</category>
+      <category>SIR</category>
+      <guid>https://emanlapig.net/posts/2021-03-07-sir-simulations</guid>
+      <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://emanlapig.net/posts/2021-03-07-sir-simulations/SIQRSimulation.png" medium="image" type="image/png" width="1656" height="1024"/>
+    </item>
+    <item>
+      <title>Dynamic network visualization</title>
+      <dc:creator>Enrico Manlapig</dc:creator>
+      <link>https://emanlapig.net/posts/2021-02-18-dynamic-network-visualization</link>
+      <description>Visualizing the viral spread through a small campus</description>
+      <category>modeling</category>
+      <category>networks</category>
+      <category>R</category>
+      <category>simulation</category>
+      <category>covid-19</category>
+      <guid>https://emanlapig.net/posts/2021-02-18-dynamic-network-visualization</guid>
+      <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://emanlapig.net/posts/2021-02-18-dynamic-network-visualization/preview.PNG" medium="image" type="image/png" width="1679" height="1132"/>
+    </item>
+    <item>
+      <title>Modeling through the pandemic</title>
+      <dc:creator>Enrico Manlapig</dc:creator>
+      <link>https://emanlapig.net/posts/2021-02-01-modeling-through-the-pandemic</link>
+      <description>A series of posts about how modeling helped me stayed sane in 2020</description>
+      <category>modeling</category>
+      <category>covid-19</category>
+      <guid>https://emanlapig.net/posts/2021-02-01-modeling-through-the-pandemic</guid>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hello world</title>
+      <dc:creator>Enrico Manlapig</dc:creator>
+      <link>https://emanlapig.net/posts/2021-01-20-hello-world</link>
+      <description>Welcome to my blog</description>
+      <guid>https://emanlapig.net/posts/2021-01-20-hello-world</guid>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
