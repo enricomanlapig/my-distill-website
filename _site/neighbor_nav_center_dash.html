@@ -85,26 +85,26 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 </style>
 
   <!--radix_placeholder_meta_tags-->
-  <title>Enrico Manlapig: Neighborhood Navigation Center Dashboard</title>
+  <title>Enrico Manlapig: Neighborhood Navigation Center</title>
 
 
 
 
   <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
-  <meta property="og:title" content="Enrico Manlapig: Neighborhood Navigation Center Dashboard"/>
+  <meta property="og:title" content="Enrico Manlapig: Neighborhood Navigation Center"/>
   <meta property="og:type" content="article"/>
   <meta property="og:locale" content="en_US"/>
   <meta property="og:site_name" content="Enrico Manlapig"/>
 
   <!--  https://dev.twitter.com/cards/types/summary -->
   <meta property="twitter:card" content="summary"/>
-  <meta property="twitter:title" content="Enrico Manlapig: Neighborhood Navigation Center Dashboard"/>
+  <meta property="twitter:title" content="Enrico Manlapig: Neighborhood Navigation Center"/>
 
   <!--/radix_placeholder_meta_tags-->
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","output"]}},"value":[{"type":"character","attributes":{},"value":["Neighborhood Navigation Center Dashboard"]},{"type":"character","attributes":{},"value":["distill::distill_article"]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","output"]}},"value":[{"type":"character","attributes":{},"value":["Neighborhood Navigation Center"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["theme"]}},"value":[{"type":"character","attributes":{},"value":["dashboard.css"]}]}]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -2203,10 +2203,6 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     max-height: 40px; /* Makes logo bigger, default was 20px */
   }
 
-  .distill-site-header {
-    padding-top: 1rem;
-  }
-
   d-title h1,
   d-article h2,
   .posts-list .description h2,
@@ -2214,7 +2210,31 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
       font-weight: 300;
       color: #404040;
   }
-  </style>
+
+
+
+
+  d-title {
+    visibility: hidden;
+    padding-top:  16px;
+    padding-bottom: 0;
+  }
+
+  distill-header{
+    visibility: hidden;
+    padding-top:  0;
+    padding-bottom: 0;
+  }
+
+  d-article {
+    padding-top:  0px;
+    padding-bottom: 0px;
+  }
+
+  d-title h1,
+  d-article h2 {
+      visibility: hidden;
+  }</style>
   <style type="text/css">
   /* base style */
 
@@ -2390,7 +2410,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <!--radix_placeholder_front_matter-->
 
 <script id="distill-front-matter" type="text/json">
-{"title":"Neighborhood Navigation Center Dashboard","authors":[]}
+{"title":"Neighborhood Navigation Center","authors":[]}
 </script>
 
 <!--/radix_placeholder_front_matter-->
@@ -2425,7 +2445,7 @@ WESTMONT DECISION LAB
 <!--/radix_placeholder_site_before_body-->
 
 <div class="d-title">
-<h1>Neighborhood Navigation Center Dashboard</h1>
+<h1>Neighborhood Navigation Center</h1>
 <!--radix_placeholder_categories-->
 <!--/radix_placeholder_categories-->
 
@@ -2433,7 +2453,10 @@ WESTMONT DECISION LAB
 
 
 <div class="d-article">
-<p>Coming soon!</p>
+<div class="layout-chunk" data-layout="l-screen">
+<iframe src="https://enricomanlapig.shinyapps.io/neighbornavcenterdashboard/?showcase=0" width="624" height="800px">
+</iframe>
+</div>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->

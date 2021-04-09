@@ -1,15 +1,18 @@
 ---
-title: "Neighborhood Navigation Center Dashboard"
-output: distill::distill_article
+title: "Neighborhood Navigation Center"
+output: 
+  distill::distill_article:
+    theme: dashboard.css
+
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-```{r, layout = "l-screen", eval = FALSE, include = FALSE}
-#knitr::include_app("https://enricomanlapig.shinyapps.io/neighbornavcenterdashboard/", height = "800px")
+```{r, layout = "l-screen"}
+knitr::include_app("https://enricomanlapig.shinyapps.io/neighbornavcenterdashboard/", height = "800px")
 ```
-Coming soon!
+
 
 
