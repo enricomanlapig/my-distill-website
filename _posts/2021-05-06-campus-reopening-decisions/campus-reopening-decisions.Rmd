@@ -7,6 +7,7 @@ author:
     url: {}
 date: 05-06-2021
 draft: FALSE
+preview: class_decisions.png
 categories: 
   - decision analysis
   - covid-19
