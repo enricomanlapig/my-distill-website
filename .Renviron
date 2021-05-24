@@ -1,0 +1,6 @@
+kobo_path = "https://kc.humanitarianresponse.info/api/v1/data/"
+kobo_data_file = "692701.xlsx"
+
+kobo_username = "emanlapig"
+kobo_password = "CaRZQ1D4zUb4rRl9qJJH"
+

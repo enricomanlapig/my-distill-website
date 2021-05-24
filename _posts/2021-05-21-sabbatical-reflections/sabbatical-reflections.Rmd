@@ -1,0 +1,32 @@
+---
+title: "Sabbatical reflections"
+description: |
+  A short description of the post.
+author:
+  - name: Enrico Manlapig
+    url: {}
+date: 05-21-2021
+draft: TRUE
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+
+
+It's very odd how your self-identity often lives in conflict with how others see you.  This conflict obviously has far reaching implications, especially when it comes to matters of race, sexual orientation, and gender.  For me, it is also a professional conflict.  
+
+When I was a consultant, we often marketed ourselves as specialists.  Students, too, like to think of me a technician.  Some of my colleagues may even see me this way.  I suppose there is some truth to this: I like technical things.  In my own mind, I'm very much a generalist. I know a little bit about some things: I have some skills.  But there are so many people out there that are so much more technical, skillful, and specialized than I am.  With no offense to toddlers, I feel like a toddler trying to play golf or navigating the NYC subway much of the time.
+
+And yet, I'm convinced that some of my skills can be useful and powerful.  Hence this blog.
+
+Early in the summer of 2020, I was thinking through the 
