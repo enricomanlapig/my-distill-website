@@ -1,5 +1,5 @@
 ---
-title: "Hi.  My name is Enrico Manlapig.  Nice to meet you."
+title: "Hi, my name is Enrico Manlapig. Pleased to meet you."
 image: "profile_pic.png"
 links:
   - label: LinkedIn
@@ -15,4 +15,4 @@ output:
   postcards::jolla
 ---
  
-Tinkering and snacking.  Not necessarily in that order.
+Welcome to my digital garden.  This site, and my new social media outlets, are my little garden beds.  Feel free to stay a while and enjoy what I'm planting.  Say hello!
