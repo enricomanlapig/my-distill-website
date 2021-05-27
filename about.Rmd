@@ -1,7 +1,7 @@
 ---
 title: "About"
 description: |
-  Tinkering snacking.  Probably not in that order.
+  Tinkering and snacking.  Probably not in that order.
 ---
 
 
