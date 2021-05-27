@@ -1,5 +1,5 @@
 ---
-title: "Enrico Manlapig"
+title: "Hi.  My name is Enrico Manlapig.  Nice to meet you."
 image: "profile_pic.png"
 links:
   - label: LinkedIn
